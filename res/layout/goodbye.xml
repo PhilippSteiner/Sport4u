@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+  
+    
+    
+ <TextView
+        android:id="@+id/textviewbye"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Sie haben 3 mal falsch eingegebn. Auf Wiedersehen"
+       
+    />
+ 
+ 
+
+  <TextView
+        android:id="@+id/textviewbye1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Die falschen Namen lauten: "
+       
+    />
+  
+  <TextView
+        android:id="@+id/textviewbye2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="d "
+       
+    />
+  <TextView
+        android:id="@+id/textviewbye3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="d "
+       
+    />
+  <TextView
+        android:id="@+id/textviewbye4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" d"
+       
+    />
+    <ImageView
+    android:id="@+id/imageView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/goodbye"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp" />
+</LinearLayout>
+
